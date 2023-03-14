@@ -1,0 +1,15 @@
+C:\Users\jenda\OneDrive\Dokumenty\Programování\ProjektJednodušší\PojisteniApp\PojisteniApp\bin\Debug\net6.0\PojisteniApp.exe
+C:\Users\jenda\OneDrive\Dokumenty\Programování\ProjektJednodušší\PojisteniApp\PojisteniApp\bin\Debug\net6.0\PojisteniApp.deps.json
+C:\Users\jenda\OneDrive\Dokumenty\Programování\ProjektJednodušší\PojisteniApp\PojisteniApp\bin\Debug\net6.0\PojisteniApp.runtimeconfig.json
+C:\Users\jenda\OneDrive\Dokumenty\Programování\ProjektJednodušší\PojisteniApp\PojisteniApp\bin\Debug\net6.0\PojisteniApp.dll
+C:\Users\jenda\OneDrive\Dokumenty\Programování\ProjektJednodušší\PojisteniApp\PojisteniApp\bin\Debug\net6.0\PojisteniApp.pdb
+C:\Users\jenda\OneDrive\Dokumenty\Programování\ProjektJednodušší\PojisteniApp\PojisteniApp\obj\Debug\net6.0\PojisteniApp.csproj.AssemblyReference.cache
+C:\Users\jenda\OneDrive\Dokumenty\Programování\ProjektJednodušší\PojisteniApp\PojisteniApp\obj\Debug\net6.0\PojisteniApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenda\OneDrive\Dokumenty\Programování\ProjektJednodušší\PojisteniApp\PojisteniApp\obj\Debug\net6.0\PojisteniApp.AssemblyInfoInputs.cache
+C:\Users\jenda\OneDrive\Dokumenty\Programování\ProjektJednodušší\PojisteniApp\PojisteniApp\obj\Debug\net6.0\PojisteniApp.AssemblyInfo.cs
+C:\Users\jenda\OneDrive\Dokumenty\Programování\ProjektJednodušší\PojisteniApp\PojisteniApp\obj\Debug\net6.0\PojisteniApp.csproj.CoreCompileInputs.cache
+C:\Users\jenda\OneDrive\Dokumenty\Programování\ProjektJednodušší\PojisteniApp\PojisteniApp\obj\Debug\net6.0\PojisteniApp.dll
+C:\Users\jenda\OneDrive\Dokumenty\Programování\ProjektJednodušší\PojisteniApp\PojisteniApp\obj\Debug\net6.0\refint\PojisteniApp.dll
+C:\Users\jenda\OneDrive\Dokumenty\Programování\ProjektJednodušší\PojisteniApp\PojisteniApp\obj\Debug\net6.0\PojisteniApp.pdb
+C:\Users\jenda\OneDrive\Dokumenty\Programování\ProjektJednodušší\PojisteniApp\PojisteniApp\obj\Debug\net6.0\PojisteniApp.genruntimeconfig.cache
+C:\Users\jenda\OneDrive\Dokumenty\Programování\ProjektJednodušší\PojisteniApp\PojisteniApp\obj\Debug\net6.0\ref\PojisteniApp.dll
